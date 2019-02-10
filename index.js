@@ -5,5 +5,5 @@ function whisper(string) {
   return string.toLowerCase ()
 }
 function toHaveBeenCalledWith (string){
-  expect (string.toUpperCase)
+  console.log (string.toUpperCase)
 }
